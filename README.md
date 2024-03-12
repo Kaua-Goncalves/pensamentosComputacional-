@@ -1,3 +1,3 @@
 # pensamentosComputacional
-Kauã Barbosa Gonçalves
-turma A
+## Kauã Barbosa Gonçalves
+### turma A
